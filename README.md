@@ -27,6 +27,12 @@ McpServerApplication
 
 ![image](https://github.com/user-attachments/assets/dd79b207-a313-43aa-914f-711a8ec474f3)
 
+tests avec postman 
+![image](https://github.com/user-attachments/assets/a5e8f055-ea99-4d52-98f0-b7b6330e80b0)
+![image](https://github.com/user-attachments/assets/108d6e30-c209-4ed3-93cb-27c1a2bb8fd2)
+![image](https://github.com/user-attachments/assets/39321cb3-282c-4fe4-b9c6-7ac60ab5a7d8)
+
+
 Cote serveur client 
 
 AIAgent 
